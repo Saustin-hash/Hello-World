@@ -1,0 +1,16 @@
+{
+   " name " : " express-hello-world " ,
+   " version " : " 1.0.0 " ,
+   " description " : " " ,
+   " main " : " index.js " ,
+   " scripts " : {
+     " start " : " nodo index.js " ,
+     " prueba " : "echo \ "Error: no se especificó ninguna prueba \ " && salida 1 "
+  },
+  " palabras clave " : [],
+   " autor " : " " ,
+   " licencia " : " ISC " ,
+   " dependencias " : {
+     " express " : " ^ 4.17.1 "
+  }
+}
