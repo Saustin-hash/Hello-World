@@ -10,6 +10,22 @@ git add .
 git commit -m "modificaciones para Heroku"
 git push
 // index.js
+{
+   "nombre": "express-hello-world",
+   "versión": "1.0.0",
+   "descripción": "",
+   "main": "index.js",
+   " guiones " : {
+     "start": "nodo index.js",
+     "prueba": "echo \" Error: no se especificó ninguna prueba \ "&& salida 1"
+  },
+  "palabras clave": [],
+   "autor": "",
+   "licencia": "ISC",
+   "dependencias": {
+     "express": "^ 4.17.1"
+  }
+}
 
 // importa la libreria express
 const express = require('express');
