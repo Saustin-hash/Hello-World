@@ -26,7 +26,12 @@ git push
      "express": "^ 4.17.1"
   }
 }
-
+echo "# Hola-Mundo" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/Saustin-hash/Hola-Mundo.git
+ push git -u maestro de origen
 // importa la libreria express
 const express = require('express');
 
